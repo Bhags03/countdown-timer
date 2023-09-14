@@ -1,4 +1,3 @@
-
 const countDownDate = new Date("2023-12-31T23:59:59").getTime();
 
 const x = setInterval(function() {
